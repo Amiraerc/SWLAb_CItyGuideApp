@@ -30,6 +30,9 @@ LAB 2
 LAB 3
 [ATM class diagram.pdf](https://github.com/user-attachments/files/27381734/ATM.class.diagram.pdf)
 [medical clinic.pdf](https://github.com/user-attachments/files/27381843/medical.clinic.pdf)
+[car diagram.pdf](https://github.com/user-attachments/files/27382251/car.diagram.pdf)
+
+
 
 
 
