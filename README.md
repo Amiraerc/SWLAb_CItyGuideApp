@@ -20,3 +20,5 @@ Project diagrams:
 - [Class Diagram](D2.pdf)
 - [Sequence Diagram](D3.pdf)
 
+LAB 2
+[Use Case Diagramm.pdf](https://github.com/user-attachments/files/27381483/Use.Case.Diagramm.pdf)
