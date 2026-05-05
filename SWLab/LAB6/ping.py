@@ -8,7 +8,7 @@ import json
 from .models import Item, ItemImage, Claim
 
 
-# ================= AUTH =================
+# AUTH 
 def register(request):
     form = UserCreationForm(request.POST or None)
     if request.method == 'POST' and form.is_valid():
@@ -17,7 +17,7 @@ def register(request):
     return render(request, 'register.html', {'form': form})
 
 
-# ================= PAGES =================
+# PAGES 
 def items_page(request):
     category = request.GET.get('category')
     items = Item.objects.filter(item_type='found')
