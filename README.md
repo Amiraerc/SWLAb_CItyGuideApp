@@ -22,16 +22,6 @@ Project diagrams:
 
   
 
-LAB 2
-[Use Case Diagramm.pdf](https://github.com/user-attachments/files/27381483/Use.Case.Diagramm.pdf)
-
-
-
-LAB 3
-[ATM class diagram.pdf](https://github.com/user-attachments/files/27381734/ATM.class.diagram.pdf)
-[medical clinic.pdf](https://github.com/user-attachments/files/27381843/medical.clinic.pdf)
-[car diagram.pdf](https://github.com/user-attachments/files/27382251/car.diagram.pdf)
-
 
 
 
